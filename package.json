@@ -1,0 +1,19 @@
+{
+  "name": "functional-programming-with-java-fromudemy28minutes",
+  "version": "1.0.0",
+  "description": "Wanna start playing with Functional Programming? Want to write awesome Java code with Functional Programming using Streams, Lambda Expressions, Functional Interfaces and Method References? Want to make your Java Programs more performant and parallelizable using Functional Programming?",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "pre-commit": "^1.2.2"
+  },
+  "pre-commit": [
+    "test"
+  ]
+}
